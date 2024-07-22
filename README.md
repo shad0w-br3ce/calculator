@@ -1,2 +1,2 @@
 # Calculator
-Calculator on C. It's my first project on C.
+Simple calculator on C. It's my first project on C.
